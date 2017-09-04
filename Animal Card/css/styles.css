@@ -1,0 +1,39 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    color: black;
+}
+img {
+    width: 300px;
+    padding: 2% 2% 4% 1%
+}
+.card {
+    width: 305px;
+    border: solid;
+    border-color: lightgray;
+    box-shadow: 8px 5px #EAEDED;
+    border-width: 1px;
+    padding: 1%;
+}
+.info {
+    width: 296px;
+    border: solid;
+    border-color: lightgray;
+    border-width: 0.5px;
+    padding: 0% 1% 1% 1%;
+}
+p {
+    padding: 1% 2% 1% 2%;
+}
+#fact {
+    font-style: italic;
+    padding: 0% 2% 0% 2%;
+}
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0% 2% 0% 2%;
+}
+.label {
+    font-weight: bold;
+}

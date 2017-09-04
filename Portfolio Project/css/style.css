@@ -1,0 +1,91 @@
+﻿* {
+   
+    font-family: 'Lato', sans-serif;
+    color: #2d3c49;
+}
+
+h1 {
+
+    font-weight: 100;
+    font-size: 46px;
+    
+}
+
+h2 {
+
+    font-weight: 300;
+    color: #7d97ad;
+   
+}
+
+h3 {
+
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 28px;
+
+}
+
+hr {
+
+    height: 4px;
+    background-color: #7d97ad;
+
+}
+
+img {
+
+    max-width: 100%;
+    
+}
+
+.col-md-3 {
+
+    text-align: right;
+
+}
+
+/* Source: https://www.w3schools.com/howto/howto_css_social_media_buttons.asp */
+
+.fa {
+
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+/* Source: https://www.w3schools.com/howto/howto_css_social_media_buttons.asp */
+
+.fa:hover {
+
+    opacity: 0.7;
+
+}
+
+/* Source: https://www.w3schools.com/howto/howto_css_social_media_buttons.asp */
+
+.fa-facebook {
+
+    background: #3B5998;
+    color: white;
+
+}
+
+/* Source: https://www.w3schools.com/howto/howto_css_social_media_buttons.asp */
+
+.fa-twitter {
+
+    background: #55ACEE;
+    color: white;
+
+}
+
+.fa-linkedin {
+
+    background: #264EA5;
+    color: white;
+
+}
